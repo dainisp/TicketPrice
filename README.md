@@ -1,1 +1,2 @@
-# TicketPrice
+To build :  ./gradlew bootJar
+
